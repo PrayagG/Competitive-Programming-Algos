@@ -1,0 +1,9 @@
+text = 'GeEks FOR geeKS'
+ 
+print("Original String:")
+print(text)
+ 
+# lower() function to convert
+# string to lower_case
+print("\nConverted String:")
+print(text.lower())
